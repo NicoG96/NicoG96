@@ -1,5 +1,5 @@
 ### Hi there 👋
-![banner](banner.png)
+![banner](https://github.com/NicoG96/NicoG96/blob/master/banner.png)
 <!--
 **NicoG96/NicoG96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
